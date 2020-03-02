@@ -1,10 +1,42 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project-private xmlns="http://www.netbeans.org/ns/project-private/1">
-    <editor-bookmarks xmlns="http://www.netbeans.org/ns/editor-bookmarks/2" lastBookmarkId="0"/>
+    <editor-bookmarks xmlns="http://www.netbeans.org/ns/editor-bookmarks/2" lastBookmarkId="10">
+        <file>
+            <url>src/gui/weetakuGui.java</url>
+            <bookmark id="7">
+                <name/>
+                <line>18</line>
+                <key/>
+            </bookmark>
+            <bookmark id="10">
+                <name/>
+                <line>423</line>
+                <key/>
+            </bookmark>
+            <bookmark id="8">
+                <name/>
+                <line>423</line>
+                <key/>
+            </bookmark>
+            <bookmark id="9">
+                <name/>
+                <line>423</line>
+                <key/>
+            </bookmark>
+            <bookmark id="5">
+                <name/>
+                <line>555</line>
+                <key/>
+            </bookmark>
+        </file>
+    </editor-bookmarks>
     <open-files xmlns="http://www.netbeans.org/ns/projectui-open-files/2">
         <group>
-            <file>file:/home/liam/NetBeansProjects/WeeTaku/src/WeeBase.sql</file>
-            <file>file:/home/liam/NetBeansProjects/WeeTaku/src/WeeTaku.java</file>
+            <file>file:/home/liam/NetBeansProjects/WeeTaku/src/sever_side/addSeries.java</file>
+            <file>file:/home/liam/NetBeansProjects/WeeTaku/src/sever_side/deleteSeries.java</file>
+            <file>file:/home/liam/NetBeansProjects/WeeTaku/src/sever_side/SQL_Commands.java</file>
+            <file>file:/home/liam/NetBeansProjects/WeeTaku/src/gui/mainGui.java</file>
+            <file>file:/home/liam/NetBeansProjects/WeeTaku/src/sever_side/weebase.sql</file>
         </group>
     </open-files>
 </project-private>
